@@ -1,0 +1,25 @@
+{
+  "name": "typescript-generate-types-from-openapi",
+  "version": "1.0.0",
+  "description": "Review of the tools for generating typscript types and data validation from OpenAPI specifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robogeek/typescript-generate-types-from-openapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robogeek/typescript-generate-types-from-openapi/issues"
+  },
+  "homepage": "https://github.com/robogeek/typescript-generate-types-from-openapi#readme",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3",
+    "zx": "^8.5.3"
+  }
+}
